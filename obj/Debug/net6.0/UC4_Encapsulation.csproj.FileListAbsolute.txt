@@ -1,0 +1,15 @@
+D:\UC4_Encapsulation\obj\Debug\net6.0\UC4_Encapsulation.csproj.AssemblyReference.cache
+D:\UC4_Encapsulation\obj\Debug\net6.0\UC4_Encapsulation.GeneratedMSBuildEditorConfig.editorconfig
+D:\UC4_Encapsulation\obj\Debug\net6.0\UC4_Encapsulation.AssemblyInfoInputs.cache
+D:\UC4_Encapsulation\obj\Debug\net6.0\UC4_Encapsulation.AssemblyInfo.cs
+D:\UC4_Encapsulation\obj\Debug\net6.0\UC4_Encapsulation.csproj.CoreCompileInputs.cache
+D:\UC4_ENCAPSULATION\bin\Debug\net6.0\UC4_ENCAPSULATION.exe
+D:\UC4_ENCAPSULATION\bin\Debug\net6.0\UC4_ENCAPSULATION.deps.json
+D:\UC4_ENCAPSULATION\bin\Debug\net6.0\UC4_ENCAPSULATION.runtimeconfig.json
+D:\UC4_ENCAPSULATION\bin\Debug\net6.0\UC4_ENCAPSULATION.dll
+D:\UC4_ENCAPSULATION\bin\Debug\net6.0\UC4_ENCAPSULATION.pdb
+D:\UC4_ENCAPSULATION\obj\Debug\net6.0\UC4_ENCAPSULATION.dll
+D:\UC4_ENCAPSULATION\obj\Debug\net6.0\refint\UC4_ENCAPSULATION.dll
+D:\UC4_ENCAPSULATION\obj\Debug\net6.0\UC4_ENCAPSULATION.pdb
+D:\UC4_ENCAPSULATION\obj\Debug\net6.0\UC4_ENCAPSULATION.genruntimeconfig.cache
+D:\UC4_ENCAPSULATION\obj\Debug\net6.0\ref\UC4_ENCAPSULATION.dll
