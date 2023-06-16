@@ -1,0 +1,5 @@
+D:\UC2_Inheritance\obj\Debug\net6.0\UC2_Inheritance.csproj.AssemblyReference.cache
+D:\UC2_Inheritance\obj\Debug\net6.0\UC2_Inheritance.GeneratedMSBuildEditorConfig.editorconfig
+D:\UC2_Inheritance\obj\Debug\net6.0\UC2_Inheritance.AssemblyInfoInputs.cache
+D:\UC2_Inheritance\obj\Debug\net6.0\UC2_Inheritance.AssemblyInfo.cs
+D:\UC2_Inheritance\obj\Debug\net6.0\UC2_Inheritance.csproj.CoreCompileInputs.cache
