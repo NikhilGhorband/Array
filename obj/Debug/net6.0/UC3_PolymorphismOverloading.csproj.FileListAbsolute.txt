@@ -1,0 +1,15 @@
+D:\UC3_PolymorphismOverloading\bin\Debug\net6.0\UC3_PolymorphismOverloading.exe
+D:\UC3_PolymorphismOverloading\bin\Debug\net6.0\UC3_PolymorphismOverloading.deps.json
+D:\UC3_PolymorphismOverloading\bin\Debug\net6.0\UC3_PolymorphismOverloading.runtimeconfig.json
+D:\UC3_PolymorphismOverloading\bin\Debug\net6.0\UC3_PolymorphismOverloading.dll
+D:\UC3_PolymorphismOverloading\bin\Debug\net6.0\UC3_PolymorphismOverloading.pdb
+D:\UC3_PolymorphismOverloading\obj\Debug\net6.0\UC3_PolymorphismOverloading.csproj.AssemblyReference.cache
+D:\UC3_PolymorphismOverloading\obj\Debug\net6.0\UC3_PolymorphismOverloading.GeneratedMSBuildEditorConfig.editorconfig
+D:\UC3_PolymorphismOverloading\obj\Debug\net6.0\UC3_PolymorphismOverloading.AssemblyInfoInputs.cache
+D:\UC3_PolymorphismOverloading\obj\Debug\net6.0\UC3_PolymorphismOverloading.AssemblyInfo.cs
+D:\UC3_PolymorphismOverloading\obj\Debug\net6.0\UC3_PolymorphismOverloading.csproj.CoreCompileInputs.cache
+D:\UC3_PolymorphismOverloading\obj\Debug\net6.0\UC3_PolymorphismOverloading.dll
+D:\UC3_PolymorphismOverloading\obj\Debug\net6.0\refint\UC3_PolymorphismOverloading.dll
+D:\UC3_PolymorphismOverloading\obj\Debug\net6.0\UC3_PolymorphismOverloading.pdb
+D:\UC3_PolymorphismOverloading\obj\Debug\net6.0\UC3_PolymorphismOverloading.genruntimeconfig.cache
+D:\UC3_PolymorphismOverloading\obj\Debug\net6.0\ref\UC3_PolymorphismOverloading.dll
